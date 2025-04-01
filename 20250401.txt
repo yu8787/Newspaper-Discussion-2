@@ -1,0 +1,20 @@
+Yolov4、Yolov7及Yolov9的發展過程
+2025/04/01    廖弘源 博士 
+
+透過"物件偵測"套入"深度學習"
+  常見做法：找尋封閉曲線
+
+圖片的分析方式
+  Region Proposal => CNN Feature Extraction => SVM Classification
+
+六種物件偵測的方法
+  1.網路架構
+  2.特徵整合方法
+  3.檢測方法
+  4.損失函數
+  5.標籤賦值方法
+  6.訓練方法
+
+Tiny YOLOv4 是由 VoVNet 變化而來
+
+V4常用於交通、生醫方面
