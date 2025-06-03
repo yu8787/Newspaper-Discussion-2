@@ -11,3 +11,5 @@
 ### 04/29 從智慧到製造：人工智慧如何引領智慧工廠革命
 
 ### 05/13 AI的運用範例 - 物流出貨運送管理系統
+
+### 06/03 Future Insights: Harnessing AI and Social Media for Advanced Event and Epidemic Forecasting
